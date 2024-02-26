@@ -1,3 +1,3 @@
-tabs: ['contracts/Day6.sol']
-terminals: ['yarn install']
+tabs: ["contracts/Day6.sol"]
+terminals: ["bun install"]
 run-button: truffle compile
